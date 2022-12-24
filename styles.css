@@ -9,16 +9,17 @@ body {
 }
 
 a {
-  color: #000;
+  color: #fff;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #fff;
 }
 
 a:active {
-  color: blue;
+  color: #fff;
 }
 
 a:visited {
